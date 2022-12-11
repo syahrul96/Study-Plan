@@ -1,2 +1,3 @@
 1. Belajar Ulang tentang Jaringan, Administrasi system, dan DevOps masing-masing minimal 1 jam.
 2. Catat Apa yang sudah di pelajari dan yang ingin dipelajari lebih dalam lagi
+3. Membuat Dokumentasi masing-masing study
