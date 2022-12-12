@@ -33,4 +33,14 @@ C.2. Prinsip terkait umpan balik, yang memungkinkan perusahaan untuk menciptakan
 C.3. Prinsip terkait proses belajar dan eksperimen yang berkelanjutan, akan menciptakan kultur yang menumbuhkan dua hal, seperti 
       pemahaman bahwa pengulangan dan latihan merupakan syarat untuk menguasai sesuatu; 
       serta kesadaran betapa pentingnya eksperimen yang terus-menerus guna meningkatkan keterampilan pengambilan risiko dan sebagai proses belajar, baik dari keberhasilan maupun kegagalan.
-
+      
+C.1. The First Way (Prinsip terkait alur kerja)
+- Prinsip ini menjelaskan bahwa kita membutuhkan alur kerja yang cepat dan lancar dalam proses pengembangan aplikasi, mulai dari penulisan kode oleh Developer (Development), penyiapan infrastruktur dan proses deploy aplikasi oleh IT Operations (Operations),
+  hingga akhirnya sampai di gadget pengguna/pelanggan (Customer) dan terasa manfaat atau nilai dari aplikasi/fitur/pembaruan perangkat lunak tersebut.
+C.1.1. Membuat Pekerjaan Menjadi Tampak
+- Salah satu metode terbaik untuk melakukan ini adalah menggunakan papan kerja visual, seperti Kanban board atau Scrum board, di mana kita dapat merepresentasikan suatu pekerjaan atau tugas pada semacam card (kartu) baik fisik maupun digital.
+C.1.2. Membatasi Work In Process (WIP)
+C.1.3. Mengurangi Skala Batch yang Dikerjakan
+C.1.4. Memangkas Jumlah Handoff
+- langkah tepat yang harus dilakukan adalah memangkas jumlah handoff, baik dengan mengotomatiskan sebagian besar pekerjaan atau mereorganisasi tim (misal, tim Developer dan tim IT Operations bersatu menjadi tim DevOps) sehingga tim tersebut dapat menyelesaikan pekerjaan (misal, menyajikan fitur baru ke pengguna) dengan cepat dan lancar tanpa perlu terus-menerus bergantung pada orang/tim lain. 
+C.1.5. Mengidentifikasi dan Memperbaiki Constraint(kendala) 
