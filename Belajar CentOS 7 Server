@@ -1,0 +1,20 @@
+1. Instalasi CentOS 7 Server 
+   - Setting TimeZone -> Asia-Jakarta
+   - Server Selection -> Minimal Install
+   - Partition  : /boot    -> 2048 MiB
+                : biosboot -> automatic (2048KiB)
+                : swap     -> 4GiB (Better 2x Ram)
+                : /        -> sisanya 
+   - Setting Root Password
+1.1 Instalation CentOS 7 Server (Raid)
+   - Setting TimeZone -> Asia-Jakarta
+   - Server Selection -> Minimal Install
+   - Pilih hardisk dengan kapasitas yang sama
+   - Partition : /boot -> 1024 MiB
+               : swap  -> 2048 MiB (Better 2x Ram)
+               : /     -> Device Type : Raid
+                       -> Raid Level  : Raid 1 (Redudancy)
+                       -> File System : Xfs
+                       -> Label : mdo
+                       -> Name  : root
+   - Setting Root Password
