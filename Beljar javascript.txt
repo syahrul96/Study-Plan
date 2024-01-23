@@ -1,4 +1,4 @@
-Beljr jvcript
+Belajar javacsript
 
 js dasar
 module js
